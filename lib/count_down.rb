@@ -1,4 +1,4 @@
-count = 5
+count = 52992
 while count > 0 do
   puts "My count is #{count}, keep counting down"
   count = count -1
