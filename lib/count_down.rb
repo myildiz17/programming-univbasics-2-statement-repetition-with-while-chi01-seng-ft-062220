@@ -1,3 +1,6 @@
-while true do
-  puts "run"
+count = 5
+while count > 0 do
+  puts "My count is #{count}, keep counting down"
+  count = count -1
 end
+puts "We are done counting down"
